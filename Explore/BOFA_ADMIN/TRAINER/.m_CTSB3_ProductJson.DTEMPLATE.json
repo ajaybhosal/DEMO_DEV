@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "Adding Desc",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-08-12T10:47:39.450Z",
+  "updateTime" : "2024-08-12T10:50:44.594Z",
   "objectRefs" : [ {
     "id" : "6Hn3BgGSQaAeUVTDfka0eJ",
     "name" : "DEV_FF_SRC",
